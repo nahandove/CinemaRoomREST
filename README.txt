@@ -111,7 +111,7 @@ the cinema, for example, if three front-row tickets from the cinema were purchas
 "purchased": 3
 } 
 
-IF the client supplies the wrong password or if the query did not contain the "password" query
+If the client supplies the wrong password or if the query did not contain the "password" query
 parameter, the server returns the error message: {"error": "The password is wrong!"} with the
 error code 401 (Unauthorized).
 
