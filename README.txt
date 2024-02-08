@@ -1,7 +1,7 @@
 Project Assignment from JetBrains Academy (www.hyperskill.org), Java Backend Developer track
 
 Summary: A RESTful application for a movie theater. The client can book and return tickets, 
-or look up current statistics of ticket booking and income.
+or look up current statistics on ticket booking and income.
 
 "Cinema Room REST Service" is a project based on the Spring Boot framework. The application
 manages a small cinema room with 9 rows and 9 columns. The seats at the front 4 rows cost
