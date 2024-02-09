@@ -95,7 +95,7 @@ The seat will be once again be marked as available for purchase and show up in t
 links. Note that once the purchased seat is returned, a new token associated with the seat
 is generated, and the old token expires.
 
-If the token fails to match any of the ticket seats, the server sends the error message: {
+If the token fails to match any of the seat tickets, the server sends the error message: {
 "error":"Wrong token!"} with the status code 400 (Bad Request).
 
 4. /stats
