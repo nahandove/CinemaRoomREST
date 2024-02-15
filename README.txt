@@ -85,10 +85,12 @@ the evening. The client can make a return request by posting the token:
 The server checks if the token matches that of any of the previously purchased tickets. Once a
 match is found, the server returns the client's ticket information:
 
+{
 "ticket": {
        "row": 3
        "column": 4
        "price": 10
+    }
 }
 
 The seat will be once again be marked as available for purchase and show up in the "/seats"
